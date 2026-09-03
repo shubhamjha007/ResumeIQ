@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+google-genai
+python-dotenv
+spacy
+sentence-transformers
+scikit-learn
+plotly
